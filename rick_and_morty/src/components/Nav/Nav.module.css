@@ -1,0 +1,125 @@
+.navigatorAbout{
+    background-color: rgba(218, 187, 102, 0.788);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    padding: 0.5em 1.2em;
+    border: 2px solid;
+    height: 40px;
+    left: 40px;
+    top: 2%;
+
+
+    
+
+}
+.navigatorAbout:hover {
+    background-color: rgba(233, 188, 66, 0.534);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    cursor: pointer;
+
+
+}
+
+.navigatorHome{
+    background-color: rgba(218, 187, 102, 0.788);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    padding: 0.5em 1.2em;
+    border: 2px solid;
+    height: 40px;
+    left: 150px;
+    top: 2%;
+
+
+    
+
+}
+.navigatorHome:hover {
+    background-color: rgba(233, 188, 66, 0.534);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    cursor: pointer;
+
+
+}
+
+.navigatorBoton{
+    background-color: rgba(218, 187, 102, 0.788);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    padding: 0.5em 1.2em;
+    border: 2px solid;
+    height: 45px;
+    left: 788px;
+    top: 0,5%;
+}
+
+
+.navigatorBoton:hover {
+    background-color: rgba(233, 188, 66, 0.534);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    cursor: pointer;
+
+
+}
+
+.barraBuscar {
+    height: 45px;
+    padding: 0.5em 1.2em;
+    border: 2px solid;
+    border-radius: 6px;
+    background-color: rgba(248, 171, 71, 0.322);
+
+    
+}
+
+
+
+
+.navigatorFavs{
+    background-color: rgba(218, 187, 102, 0.788);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    padding: 0.5em 1.2em;
+    border: 2px solid;
+    height: 40px;
+    left: 260px;
+    top: 2%;
+}
+
+
+.navigatorFavs:hover {
+    background-color: rgba(233, 188, 66, 0.534);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    cursor: pointer;
+
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-left: auto;
+
+}
+
+.containerDos {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+

@@ -1,0 +1,19 @@
+
+.titulo{ 
+    display: center;
+    color: rgb(255, 220, 104);
+    font-family: 'serif';
+    font-size:50px;
+
+
+}
+
+
+.parrafo{
+    display: flex;
+    color: rgb(212, 205, 120);
+    font-family: 'serif';
+    font-size:x-large;
+
+}
+

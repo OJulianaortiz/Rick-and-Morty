@@ -1,0 +1,37 @@
+.botonBarra {
+    background-color: rgba(218, 187, 102, 0.788);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    padding: 0.5em 1.2em;
+    border: 2px solid;
+    height: 45px;
+    
+
+}
+.botonBarra:hover {
+    background-color: rgba(190, 187, 179, 0.534);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:large;
+    cursor: pointer;
+
+
+}
+
+.botonFondo {
+    background-color: rgba(224, 156, 55, 0.562);
+    border-radius: 6px;
+    padding: 0.5em 1.2em;
+    border: 2px solid;
+    
+}
+
+.barraBuscar {
+    height: 45px;
+    padding: 0.5em 1.2em;
+    border: 2px solid;
+    border-radius: 6px;
+    background-color: rgba(248, 171, 71, 0.322);
+}
+

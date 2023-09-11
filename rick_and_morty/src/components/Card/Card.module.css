@@ -1,0 +1,59 @@
+.carta {
+    display: inline-block;
+    width: 250px;
+    height: 370px;
+    border-top: 1px solid;
+    padding: 50px 60px;
+    background-color: rgb(160, 114, 81);
+    margin-top: 10px;
+    margin-bottom:10px ;
+    margin-left:10px ;
+    margin-right:10px ;
+    border-radius: 20px;
+    font-size:xx-small;
+    font-family:serif ;
+    box-shadow: -1px 15px 30px -12px rgb(0, 0, 0);
+
+}
+
+.botoncin {
+    background-color:rgb(134, 36, 36);
+    border-radius: 6px;
+    position: relative;
+    top : -20px;
+    left: -15px;
+}
+
+.img {
+    position: flex;
+    width: 220px;
+    border-radius: 20px;
+    box-shadow: -1px 15px 30px -12px rgb(0, 0, 0);
+   
+}
+
+.nombre {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-color: rgba(148, 63, 24, 0.548);
+    box-shadow: -1px 15px 30px -12px rgb(0, 0, 0);
+    border-radius:8px;
+    width:100;
+    font-size: 20px;
+   
+  
+    
+}
+
+.link {
+    color: rgba(196, 169, 97, 0.719);
+}
+ 
+.corazon {
+    background-color:rgb(134, 36, 36);
+    border-radius: 6px;
+    position: relative;
+    bottom: 40px;
+    right: 140px;
+}

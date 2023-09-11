@@ -1,0 +1,61 @@
+.login {
+    display: inline-block;
+    width: 250px;
+    height: 370px;
+    border-top: 1px solid;
+    padding: 50px 60px;
+    background-color: rgb(160, 114, 81);
+    margin-top: 10px;
+    margin-bottom:10px ;
+    margin-left:10px ;
+    margin-right:10px ;
+    border-radius: 20px;
+    font-size:medium;
+    font-family:serif ;
+    color:rgb(233, 212, 142);
+    box-shadow: black;
+   
+   
+
+}
+
+
+.cajamail{
+    border: 1px solid rgb(168, 142, 23);
+    background-color: rgba(233, 212, 142, 0.781);
+    position: relative;
+    bottom : -5px;
+    height: 20px;
+}
+
+.botonmail{
+    background-color: rgba(218, 187, 102, 0.788);
+    border-radius: 6px;
+    font-family: ' serif ';
+    font-size:small;
+    padding: 0.5em 1.2em;
+    border: 1px solid;
+    position: relative;
+    bottom : -10px;
+}
+
+.texto {
+    position: relative;
+    bottom : -10px;
+}
+
+
+.img {
+    position: flex;
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: -1px 15px 30px -12px rgb(0, 0, 0);
+}
+
+.error {
+    border:1px solid rgba(221, 72, 72, 0.719)
+}
+
+.success{
+    border : 1px solid rgba(72, 139, 72, 0.801)
+}
