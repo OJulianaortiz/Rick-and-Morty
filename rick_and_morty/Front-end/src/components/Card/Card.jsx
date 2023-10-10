@@ -22,7 +22,16 @@ const Card = (props) => {
   const [isFav, setIsFav] = useState(false);
 
   const handleFavorite = () => {
-    isFav ? removeFav(id) : props.addFav(props.character);
+    const character = {
+      name: name,
+      status: status,
+      species: species,
+      gender: gender,
+      origin: origin,
+      image: image,
+    };
+
+    isFav ? removeFav(id) : addFav(character);
     setIsFav(!isFav);
   };
 
@@ -33,7 +42,7 @@ const Card = (props) => {
       }
     });
   }, [myFavorites]);
-
+  console.log(onClose);
   return (
     <div className={styles.carta}>
       {isFav ? (
